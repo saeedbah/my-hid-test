@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fetch GitHub Raw Content</title>
+</head>
+<body>
+  <pre id="output">Loading...</pre>
+
+  <script>
+    async function fetchData() {
+      const url = "https://panel.aiguard2.top/vp3cSLc0juM/25e19963-5e35-4416-8fd3-3245d287a0cb/sub/?asn=unknown#Saeed-test"; // replace with your link
+      try {
+        const response = await fetch(url);
+        if (!response.ok) throw new Error("Failed to fetch file");
+        const data = await response.text();
+        document.getElementById("output").textContent = data;
+      } catch (error) {
+        document.getElementById("output").textContent = error;
+      }
+    }
+    fetchData();
+  </script>
+</body>
+</html>
