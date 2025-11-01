@@ -1,12 +1,607 @@
-trojan://1@20.33--2025.11.01.time:2033?sni=fake_ip_for_sub_link&security=tls#%F0%9F%8E%81Gift%200.0/50GB%20%F0%9F%93%85%2093%20%D8%B1%D9%88%D8%B2
-vless://c0b8a7a8-8152-4945-8883-7c25b68ec017@upl1.vaiapp.top:443?hiddify=1&sni=aicenter.csproject.org&type=ws&alpn=http%2F1.1&path=%2FafeZsrcoZ8abRFVkGWGVL&host=aicenter.ssott.com&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20obsidian%2F1.9.10%20Chrome%2F138.0.7204.224%20Electron%2F37.3.0%20Safari%2F537.36%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#A1%20%7C%20🇩🇪(DE)%20%7C%20X0.25%20%40aicenter_guard
-vless://c0b8a7a8-8152-4945-8883-7c25b68ec017@dir2.a.vaiapp.top:443?hiddify=1&sni=srv01.vaiappguard.workers.dev&type=ws&alpn=http%2F1.1&path=%2FafeZsrcoZ8abRFVkGWGVL&host=srv01.vaiappguard.workers.dev&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20obsidian%2F1.9.10%20Chrome%2F138.0.7204.224%20Electron%2F37.3.0%20Safari%2F537.36%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#A2%20%7C%20🇩🇪(DE)%20%7C%20X0.25%20%40aicenter_guard
-vless://c0b8a7a8-8152-4945-8883-7c25b68ec017@dir3.a.vaiapp.top:443?hiddify=1&sni=srv01.aichild.workers.dev&type=ws&alpn=http%2F1.1&path=%2FafeZsrcoZ8abRFVkGWGVL&host=srv01.aichild.workers.dev&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20obsidian%2F1.9.10%20Chrome%2F138.0.7204.224%20Electron%2F37.3.0%20Safari%2F537.36%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#A2%20%7C%20🇩🇪(DE)%20%7C%20X0.25%20%40aicenter_guard
-vless://c0b8a7a8-8152-4945-8883-7c25b68ec017@gcore.vaiapp.top:443?hiddify=1&sni=gcore.nursph.org&type=ws&alpn=http%2F1.1&path=%2FafeZsrcoZ8abRFVkGWGVL&host=gcore.nursph.org&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20obsidian%2F1.9.10%20Chrome%2F138.0.7204.224%20Electron%2F37.3.0%20Safari%2F537.36%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#A3%20%7C%20🇩🇪(DE)%20%7C%20X0.25%20%40aicenter_guard
-vless://c0b8a7a8-8152-4945-8883-7c25b68ec017@irsrv1.a.vaiapp.top:443?hiddify=1&sni=hap-0b23467d78-aig.apps.ir-thr-ba1.arvancaas.ir&type=ws&alpn=http%2F1.1&path=%2FafeZsrcoZ8abRFVkGWGVL&host=irs01.tscng.org&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20obsidian%2F1.9.10%20Chrome%2F138.0.7204.224%20Electron%2F37.3.0%20Safari%2F537.36%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#B1%20%7C%20🇩🇪(DE)%20%7C%20%40aicenter_guard
-vless://c0b8a7a8-8152-4945-8883-7c25b68ec017@irsrv2.a.vaiapp.top:443?hiddify=1&sni=hap-0b23467d78-aig.apps.ir-thr-ba1.arvancaas.ir&type=ws&alpn=http%2F1.1&path=%2FUSS1xafeZsrcoZ8abRFVkGWGVL&host=irs01.tscng.org&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20obsidian%2F1.9.10%20Chrome%2F138.0.7204.224%20Electron%2F37.3.0%20Safari%2F537.36%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#B2%20%7C%20🇺🇸(US)%20%7C%20%40aicenter_guard
-vless://c0b8a7a8-8152-4945-8883-7c25b68ec017@irsrv3.vaiapp.top:443?hiddify=1&sni=hap-82592bf5e2-aic.apps.ir-thr-ba1.arvancaas.ir&type=ws&alpn=http%2F1.1&path=%2FafeZsrcoZ8abRFVkGWGVL&host=irs02.tscng.org&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20obsidian%2F1.9.10%20Chrome%2F138.0.7204.224%20Electron%2F37.3.0%20Safari%2F537.36%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#B3%20%7C%20🇩🇪(DE)%20%7C%20%40aicenter_guard
-vless://c0b8a7a8-8152-4945-8883-7c25b68ec017@185.143.234.120:443?hiddify=1&sni=dl-bd1f298f33-majidab3.apps.ir-central1.arvancaas.ir&type=ws&alpn=http%2F1.1&path=%2FafeZsrcoZ8abRFVkGWGVL&host=hap-0b23467d78-aig.apps.ir-thr-ba1.arvancaas.ir&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20obsidian%2F1.9.10%20Chrome%2F138.0.7204.224%20Electron%2F37.3.0%20Safari%2F537.36%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#C1%20%7C%20🇩🇪(DE)%20%7C%20nimbaha%20%40aicenter_guard
-vless://c0b8a7a8-8152-4945-8883-7c25b68ec017@185.143.233.120:443?hiddify=1&sni=dl-bd1f298f33-majidab3.apps.ir-central1.arvancaas.ir&type=ws&alpn=http%2F1.1&path=%2FUSS1xafeZsrcoZ8abRFVkGWGVL&host=hap-0b23467d78-aig.apps.ir-thr-ba1.arvancaas.ir&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20obsidian%2F1.9.10%20Chrome%2F138.0.7204.224%20Electron%2F37.3.0%20Safari%2F537.36%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#C2%20%7C%20🇺🇸(US)%20%7C%20nimbaha%20%40aicenter_guard
-vless://c0b8a7a8-8152-4945-8883-7c25b68ec017@185.143.233.120:443?hiddify=1&sni=dl-bd1f298f33-majidab3.apps.ir-central1.arvancaas.ir&type=ws&alpn=http%2F1.1&path=%2FafeZsrcoZ8abRFVkGWGVL&host=hap-82592bf5e2-aic.apps.ir-thr-ba1.arvancaas.ir&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20obsidian%2F1.9.10%20Chrome%2F138.0.7204.224%20Electron%2F37.3.0%20Safari%2F537.36%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#C3%20%7C%20🇩🇪(DE)%20%7C%20nimbaha%20%40aicenter_guard
-vless://c0b8a7a8-8152-4945-8883-7c25b68ec017@185.143.234.1:443?hiddify=1&sni=dl-bd1f298f33-majidab3.apps.ir-central1.arvancaas.ir&type=ws&alpn=http%2F1.1&path=%2FUSS1xafeZsrcoZ8abRFVkGWGVL&host=hap-82592bf5e2-aic.apps.ir-thr-ba1.arvancaas.ir&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20obsidian%2F1.9.10%20Chrome%2F138.0.7204.224%20Electron%2F37.3.0%20Safari%2F537.36%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#C4%20%7C%20🇺🇸(US)%20%7C%20nimbaha%20%40aicenter_guard
+
+
+<!--  -->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>هیدیفای‌منیجر | هیدیفای‌منیجر | DEV</title>
+  
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="googlebot" content="noindex, nofollow">
+  <meta name="googlebot-news" content="noindex, nofollow">
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  
+  <link href="/vp3cSLc0juM/static/images/splash/iphone5_splash.png"
+    media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"
+    rel="apple-touch-startup-image" />
+  <link href="/vp3cSLc0juM/static/images/splash/iphone6_splash.png"
+    media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"
+    rel="apple-touch-startup-image" />
+  <link href="/vp3cSLc0juM/static/images/splash/iphoneplus_splash.png"
+    media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)"
+    rel="apple-touch-startup-image" />
+  <link href="/vp3cSLc0juM/static/images/splash/iphonex_splash.png"
+    media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)"
+    rel="apple-touch-startup-image" />
+  <link href="/vp3cSLc0juM/static/images/splash/iphonexr_splash.png"
+    media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"
+    rel="apple-touch-startup-image" />
+  <link href="/vp3cSLc0juM/static/images/splash/iphonexsmax_splash.png"
+    media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)"
+    rel="apple-touch-startup-image" />
+  <link href="/vp3cSLc0juM/static/images/splash/ipad_splash.png"
+    media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"
+    rel="apple-touch-startup-image" />
+  <link href="/vp3cSLc0juM/static/images/splash/ipadpro1_splash.png"
+    media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"
+    rel="apple-touch-startup-image" />
+  <link href="/vp3cSLc0juM/static/images/splash/ipadpro3_splash.png"
+    media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"
+    rel="apple-touch-startup-image" />
+  <link href="/vp3cSLc0juM/static/images/splash/ipadpro2_splash.png"
+    media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"
+    rel="apple-touch-startup-image" />
+  <link rel="icon" type="image/x-icon" href="/vp3cSLc0juM/static/images/favicon.ico">
+  <link rel="manifest" href="/vp3cSLc0juM//manifest.webmanifest">
+
+  <!-- Tell the browser to be responsive to screen width -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- Bootstrap 4 -->
+  
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="/vp3cSLc0juM/static/plugins/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/vp3cSLc0juM/static/css/font-awesome.css" type="text/css">
+  <!-- Theme style -->
+  <link rel="stylesheet" href="/vp3cSLc0juM/static/css/adminlte.css">
+
+
+  <!-- <link rel="stylesheet" href="/vp3cSLc0juM/static/plugins/datatables/dataTables.bootstrap4.css">
+  <link rel="stylesheet" href="/vp3cSLc0juM/static/plugins/datatables/extensions/Responsive/css/dataTables.responsive.css">
+  <link rel="stylesheet" href="/vp3cSLc0juM/static/plugins/datatables/extensions/Responsive/css/responsive.bootstrap4.min.css"> -->
+
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.2/css/dataTables.bootstrap4.min.css">
+  <link rel="stylesheet" type="text/css"
+    href="https://cdn.datatables.net/responsive/2.4.0/css/responsive.bootstrap4.min.css">
+
+  <link rel="stylesheet" href="/vp3cSLc0juM/static/css/custom.css?version=5.23">
+  
+  <link rel="stylesheet" href="/vp3cSLc0juM/static/css/bootstrap4-rtl.min.css">
+  <link rel="stylesheet" href="/vp3cSLc0juM/static/css/adminlte.fa.css">
+  <link rel="stylesheet" href="/vp3cSLc0juM/static/css/custom-rtl.css?version=3">
+  
+  
+  
+  
+
+  
+  
+
+</head>
+
+<body class="hold-transition layout-fixed  sidebar-collapse">
+  <div id="splash_screen">
+    <center>
+
+      <img src="/vp3cSLc0juM/static/images/hiddify.png" />
+
+
+      <a href="https://github.com/hiddify/hiddify-manager/wiki">
+        <h1 class="title">هیدیفای‌منیجر</h1><br>Powered by hiddify.com
+      </a>
+    </center>
+  </div>
+
+  
+  <div class="wrapper">
+    
+    
+
+    <!-- Content Wrapper. Contains page content -->
+    <div class="content-wrapper">
+      <!-- Content Header (Page header) -->
+
+      <div class="content-header">
+        <div class="container-fluid">
+          
+
+
+
+
+        </div><!-- /.container-fluid -->
+      </div>
+      <!-- /.content-header -->
+
+
+
+      <!-- Main content -->
+      <div class="content">
+        <div class="container-fluid">
+
+
+          
+          
+          
+
+          
+
+
+          
+
+
+
+<div class="container col-12 col-md-6 offset-md-3">
+    <h1>هیدیفای‌منیجر</h1>
+    <div class="card-group login-container">
+        <!-- Left Card: Login Form -->
+        <div class="card card-outline card-primary ">
+            <div class="card-header text-center">
+                Login
+            </div>
+            <div class="card-body">
+                
+    <form action="" method="post"
+            class="form" role="form">
+        <input id="csrf_token" name="csrf_token" type="hidden" value="ImNiMGE2OGQxNjk3YThiMjhhZjllZjU2ZTFhNzFkMGUyN2MyZTgxYmQi.aQZLXw.CA6vv1cyjp_XqZH4pFRy655Yug4">
+        
+            
+
+    
+    
+
+    
+    
+    
+    
+    
+
+    <div class="form-group"><label class="form-control-label" for="secret_textbox">کد مخفی (UUID)</label>
+                
+                    
+                        <input class="form-control" id="secret_textbox" message="رمز UUID نامعتبر است. به عنوان مثال: 6098ea35-8cb2-4a08-ba15-2be25bc49cb6" name="secret_textbox" pattern="^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$" required="" type="text" value="c0b8a7a8-8152-4945-8883-7c25b68ec017">
+                    
+                <small class="form-text text-muted">برای دسترسی به این صفحه، لطفا کد مخفی (UUID) خود را وارد کنید.</small>
+        </div>
+    
+
+            
+
+    
+    
+
+    
+    
+    
+    
+    
+
+    <div class="form-group"><label class="form-control-label" for="password_textbox">رمز عبور</label>
+                
+                    
+                        <input class="form-control" id="password_textbox" name="password_textbox" type="password" value="">
+                    
+                <small class="form-text text-muted">برای امنیت بیشتر، باید رمز عبور خود را وارد کنید.</small>
+        </div>
+    
+
+            
+
+    
+    
+
+    
+    
+    
+    
+    
+
+    
+        
+        
+        
+    
+
+            
+            
+            <input class="btn btn-primary btn-md" id="submit" name="submit" type="submit" value="ورود">
+        
+
+
+
+
+            
+    </form>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+          <div id="ytplayer" style="width: 1px; height: 1px;"></div>
+          <video id='guide-video' controls style='max-height: 100%; max-width: 100%;width: 1px; height: 1px;'>
+            <source id='guide-video-mp4' type='video/mp4'>
+          </video>
+          <!-- END TYPOGRAPHY -->
+        </div><!-- /.container-fluid -->
+      </div>
+      <!-- /.content -->
+    </div>
+    <!-- /.content-wrapper -->
+    <!-- Control Sidebar -->
+
+    <!-- /.control-sidebar -->
+
+    <footer class="main-footer d-flex flex-wrap justify-content-between align-items-center " dir="ltr">
+      <div class="nav col-md-8 d-flex align-items-center">
+
+        <strong><span class="mb-3 mb-md-0 text-muted">© 2025 Hiddify  <span class="badge">DEV</span>
+          </span>
+        </strong>
+      </div>
+
+      <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
+        <li class="ms-3"><a class="text-secondary" href="https://github.com/hiddify/hiddify-manager/wiki"><i
+              class="fa-brands fa-github"></i></a></li>
+        <li class="ms-3"><a class="text-danger" href="https://youtube.com/@hiddify/videos">
+            &nbsp; <i class="fa-brands fa-square-youtube fa-margin"></i> </a></li>
+        <li class="ms-3"><a class="text-primary" href="https://twitter.com/intent/follow?screen_name=hiddify_com">
+            &nbsp; <i class="fa-brands fa-square-twitter fa-margin"></i> </a></li>
+        <li class="ms-3"><a class="text-primary" href="https://t.me/hiddify">&nbsp; <i
+              class="fa-brands fa-telegram fa-margin"></i> </a></li>
+      </ul>
+
+    </footer>
+    <button id="install-pwa-btn" class="btn btn-primary" style="display: none;">
+      Install App
+    </button>
+  </div>
+  <!-- ./wrapper -->
+
+  
+
+  <div class="modal fade" id="share-qr-code" role="dialog" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLongTitle">اشتراک‌گذاری در شبکه‌های اجتماعی</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+
+        </div>
+        <div class="modal-body">
+          <center>
+            <div class="btn-group">
+              <a id='qrcode-link' class="btn btn-primary copy-link" href=""><i class="fa-regular fa-copy"></i>
+                کپی </a>
+              <a id="share-link-redirect" class="btn btn-success copy-link" href=""><i
+                  class="fa-solid fa-share-from-square"></i> لینک برای شبکه‌های اجتماعی</a>
+              <a target="_blank" id="share-link-open" class="btn btn-secondary" href=""><i
+                  class="fa-solid fa-arrow-up-right-from-square"></i> باز کردن</a>
+            </div>
+            <br />
+            <div id="qrcode" style="margin:10px;padding:10px;"></div>
+          </center>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary close" data-dismiss="modal">بستن</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+  <script type="text/javascript">
+
+    setTimeout(function () {
+      var wrappers = document.getElementsByClassName("wrapper");
+      var splash_screen = document.getElementById("splash_screen");
+      document.body.removeChild(splash_screen);
+      for (var i = 0; i < wrappers.length; i++) {
+        wrappers[i].style.display = 'initial';
+      }
+
+    }, document.URL.indexOf("pwa") > 0 ? 0 : 500);
+
+  </script>
+  <!-- jQuery -->
+  <script src="/vp3cSLc0juM/static/plugins/jquery/jquery.min.js"></script>
+  <script src="/vp3cSLc0juM/static/js/popper.min.js"></script>
+  <script src="/vp3cSLc0juM/static/plugins/bootstrap/js/bootstrap.min.js"></script>
+
+
+  <!-- <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script> -->
+
+  <script src="/vp3cSLc0juM/static/js/moment.min.js"></script>
+  <script src="/vp3cSLc0juM/static/js/bootbox.all.min.js"></script>
+  <script src="/vp3cSLc0juM/static/plugins/select2/select2.min.js"></script>
+
+
+
+
+
+  <!-- Bootstrap 4 -->
+
+  <!-- <script src="/vp3cSLc0juM/static/plugins/bootstrap/js/bootstrap.bundle.min.js"></script> -->
+
+  <script src="/vp3cSLc0juM/static/plugins/datatables/jquery.dataTables.min.js"></script>
+  <script src="/vp3cSLc0juM/static/plugins/datatables/dataTables.bootstrap4.js"></script>
+  <script
+    src="/vp3cSLc0juM/static/plugins/datatables/extensions/Responsive/js/dataTables.responsive.min.js"></script>
+  <script
+    src="/vp3cSLc0juM/static/plugins/datatables/extensions/Responsive/js/responsive.bootstrap4.min.js"></script>
+
+  <!-- <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.13.2/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.13.2/js/dataTables.bootstrap4.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/responsive/2.4.0/js/dataTables.responsive.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/responsive/2.4.0/js/responsive.bootstrap4.min.js"></script> -->
+
+
+
+
+  <!-- AdminLTE App -->
+  <script src="/vp3cSLc0juM/static/js/adminlte.js"></script>
+  <script src="/vp3cSLc0juM/static/js/qrcode.js"></script>
+  <!-- <script src="/vp3cSLc0juM/static/js/demo.js"></script> -->
+  <script src="/vp3cSLc0juM/static/js/custom.js"></script>
+
+  <script src="/vp3cSLc0juM/static/js/js.cookie.min.js"> </script>
+  <script type="text/javascript">
+    var v;
+    function copy_click(e) {
+      e.preventDefault();
+      console.log(this); console.log(e);
+      var link = this.getAttribute('data-copy') || this.href;
+      if (link.startsWith("hiddify://")) {
+        parsedUrl = new URL(link);
+        link = parsedUrl.searchParams.get('url');
+      }
+      try {
+        navigator.clipboard.writeText(link).then(function () {
+          alert("لینک کپی شد.  \n" + link);
+        }, function (err) {
+          window.prompt("برای کپی کردن به کلیپ‌بورد: دکمه Ctrl+C را بزنید.: Ctrl+C, Enter", link);
+        });
+      } catch (error) {
+        window.prompt("برای کپی کردن به کلیپ‌بورد: دکمه Ctrl+C را بزنید.: Ctrl+C, Enter", link);
+      }
+    }
+
+    w = Math.min(window.innerWidth, window.innerHeight) * .5;
+    qrcode = new QRCode(document.getElementById("qrcode"), { width: w, height: w, correctLevel: 1 });
+    function share_click(e) {
+      e.preventDefault();
+
+      var link = this.getAttribute('data-copy') || this.href;
+      qrcode.clear()
+      qrcode.makeCode(link);
+      hrefshare = "https:///Sp3cSLc0juB/redirect/" + link.replaceAll('://', '%3A%2F%2F')
+      $('#qrcode-link')[0].href = link
+      $('#qrcode-link').attr('data-copy', link)
+      $('#share-link-open')[0].href = link
+      $('#share-link-redirect')[0].href = hrefshare
+      $('#share-link-open').show()
+      if (link.startsWith("http"))
+        $('#share-link-redirect').hide()
+      else
+        $('#share-link-redirect').show()
+
+      if (this.getAttribute('data-copy')) {
+        $('#share-link-redirect').hide()
+        //$('#share-link-open').hide()
+      }
+      $('#share-qr-code').modal('show');
+    }
+
+    $(document).ready(function () {
+      
+      
+
+
+      $("#guide-video").on('ended', function () {
+        cancel_video();
+      });
+      if (v !== undefined)
+        v.addEventListener("fullscreenchange", function (event) {
+          if (document.fullscreenElement) {
+          } else {
+            cancel_video()
+          }
+        })
+    });
+
+  </script>
+
+
+
+  
+
+  
+  <script defer type="text/javascript">
+    $(document).ready(function () {
+
+      $('a.copy-link').click(copy_click)
+      $('a.share-link').click(share_click)
+      //   $("input").each((i,e)=>{
+      //     if (e.getAttribute('title')){
+      //       e.parentNode.append
+      //     }
+      //   })
+    })
+
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker
+        .register("/vp3cSLc0juM/static/js/pwa-sw.js")
+        .then(() => { console.log('Service Worker Registered'); });
+    }
+
+    let deferredPrompt = null;
+
+    function cancel_video() {
+      player.pauseVideo();
+
+      os = ""
+      is_safari = os.indexOf("Safari") >= 0
+      v = $('#guide-video')[0]
+      v2 = $('#ytplayer')[0]
+      v.pause()
+      if (true || is_safari) {
+        v.style.width = "0px"
+        v.style.height = "0px"
+        v2.style.width = "0px"
+        v2.style.height = "0px"
+      }
+      if (document.exitFullscreen) {
+        document.exitFullscreen(); // Standard
+      } else if (document.webkitExitFullscreen) {
+        document.webkitExitFullscreen(); // Blink
+      } else if (document.mozCancelFullScreen) {
+        document.mozCancelFullScreen(); // Gecko
+      } else if (document.msExitFullscreen) {
+        document.msExitFullscreen(); // Old IE
+      }
+
+    }
+    const youtube_map = {
+      "features": "-a4tfRUsrNY",
+      "webapp-ios": "GBywNl2KZMM",
+      "webapp-android": "_-Iyr_RtIH0",
+      "ios-fair": "01m7w-I4JXE",
+      "ios-wingx": "qFKv4I-MNQc",
+      "ios-stash": "D0Xv54nRSY8",
+      "ios-shadowrocket": "F2bC_mtbYmQ",
+      "android-v2rayng": "6HncctDHXVs",
+      "android-hiddifyng": "7B0PO3HM6Vg",
+      "android-hiddifyclash": "8P887E-KMls",
+      "windows-hiddifyn": "o9L2sI2T53Q"
+    };
+    function show_video(file) {
+      os = ""
+      is_safari = os.indexOf("Safari") >= 0
+
+      if (youtube_is_open && youtube_map[file]) {
+        player.loadVideoById(youtube_map[file])
+        player.playVideo()
+        v = $("#ytplayer")[0]
+      } else {
+        $('#guide-video-mp4')[0].src = "/kv47rPuaXRsAEx3G/videos/" + file + ".mp4"
+        v = $('#guide-video')[0]
+        v.load()
+        v.play()
+      }
+
+
+      //$('#guide-modal').modal()
+
+      is_safari = false
+      if (is_safari) {
+        v.style.position = "absolute"
+        v.style.width = "100vw"
+        v.style.top = "0px"
+        v.style.background = "black"
+        v.style.height = "100vh"
+      }
+
+
+
+
+      if (v.requestFullscreen)
+        v.requestFullscreen()
+      if (v.webkitEnterFullscreen)
+        v.webkitEnterFullscreen();
+    }
+    function show_prompt() {
+      toast = $(document).Toasts('create', {
+        class: 'bg-',
+        position: "bottomRight",
+        image: "/vp3cSLc0juM/static/images/pwa-icon.png",
+        title: `نصب پنل هیدیفای <button class='btn btn-xs btn-default' onclick='show_video(is_ios?"webapp-ios":"webapp-android")'><i class='fa-solid fa-question'></i></button>`,
+        class: "toast-full",
+        body: `روی 
+  <button class='btn btn-success' onclick='install_pwa()'>نصب</button>
+   کلیک کنید تا صفحه کاربر ذخیره شود.`
+      })
+    }
+    is_ios = false
+    
+
+
+  </script>
+
+
+
+  <script defer type="text/javascript">
+    var youtube_is_open = !['ir', 'cn', '-'].includes("-")
+
+    if (youtube_is_open) {
+
+      var tag = document.createElement('script');
+      tag.id = 'iframe-demo';
+      tag.src = '//www.youtube.com/iframe_api';
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+      var player;
+      function onYouTubeIframeAPIReady() {
+
+        player = new YT.Player('ytplayer', {
+          playerVars: { 'autoplay': 1, },
+          events: {
+            'onReady': onPlayerReady,
+            'onStateChange': onPlayerStateChange,
+            'onError': onPlayerError
+          }
+        });
+      }
+      function fullscreenPlayer() {
+        if (player.getIframe().requestFullscreen) {
+          player.getIframe().requestFullscreen();
+        } else if (player.getIframe().mozRequestFullScreen) {
+          player.getIframe().mozRequestFullScreen();
+        } else if (player.getIframe().webkitRequestFullscreen) {
+          player.getIframe().webkitRequestFullscreen();
+        } else if (player.getIframe().msRequestFullscreen) {
+          player.getIframe().msRequestFullscreen();
+        }
+      }
+      function onPlayerError(event) {
+        youtube_is_open = false
+      }
+      function onPlayerReady(event) {
+        youtube_is_open = true
+      }
+      // YouTube Player state change event
+      function onPlayerStateChange(event) {
+        if (event.data === YT.PlayerState.ENDED) {
+          cancel_video()
+          // Perform further actions or analytics tracking here
+        }
+      }
+    }
+  </script>
+
+  
+  <script src="/vp3cSLc0juM/static/js/custom-rtl.js?version=5.1"> </script>
+  
+
+
+  <!-- <script src="/vp3cSLc0juM/static/js/pwa-sw.js" defer></script> -->
+  
+
+  
+  
+</body>
+
+</html>
