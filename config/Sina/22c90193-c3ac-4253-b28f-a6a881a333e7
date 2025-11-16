@@ -150,7 +150,7 @@
                 
     <form action="" method="post"
             class="form" role="form">
-        <input id="csrf_token" name="csrf_token" type="hidden" value="ImUxMzhmNGYxMTdjYzllMDEwOGU0ZGE2MDhkNmMwMjg0YjcwYjJmMDIi.aRlM9w.hmzjVv_SXXRbO7FgUZauiNa_Cbk">
+        <input id="csrf_token" name="csrf_token" type="hidden" value="ImFmMTlhNDNlZjU2MmUzZDI4MzdjYjQyOGM3MWM0OTQ5N2FjY2JjYWMi.aRlbBw.Xhu7qPFHxlFYUtbATaRiOjBvbXU">
         
             
 
