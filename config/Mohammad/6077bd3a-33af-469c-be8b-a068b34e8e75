@@ -150,7 +150,7 @@
                 
     <form action="" method="post"
             class="form" role="form">
-        <input id="csrf_token" name="csrf_token" type="hidden" value="ImUzOTQ3NDEyYjE0MTBmNmI3YjNhOWRkZDMxOWRkZGFhYjVjYjY0OWUi.aS7AbQ.SSRPnFuaZGhpRkDKwQum6q0sU8o">
+        <input id="csrf_token" name="csrf_token" type="hidden" value="ImIwOWYyODg2MDljNDY3NjMyYzg5MmFmNmZkY2M5OWQyM2I2NDM2ZDci.aS7Oew.yq_IUW4aGvjySHx_D3fX776YV7g">
         
             
 
@@ -535,6 +535,43 @@
       })
     }
     is_ios = false
+    
+
+    
+    window.addEventListener('beforeinstallprompt', (event) => {
+      console.log("On before install")
+      if (deferredPrompt == null) show_prompt()
+      // Prevent Chrome 67 and earlier from automatically showing the prompt
+      event.preventDefault();
+      // Stash the event so it can be triggered later
+      deferredPrompt = event;
+      // Update UI notify the user they can add to home screen
+      $('#install-pwa-btn').fadeIn();
+    });
+
+
+
+    install_pwa = () => {
+      // Show the prompt
+      deferredPrompt.prompt();
+      // Wait for the user to respond to the prompt
+      deferredPrompt.userChoice.then((choiceResult) => {
+        if (choiceResult.outcome === 'accepted') {
+          console.log('User accepted the install prompt');
+          // Hide the installation button
+          $('#install-pwa-btn').fadeOut();
+          toast.fadeOut();
+
+        }
+        // deferredPrompt = null;
+      });
+    };
+    $('#install-pwa-btn').click(install_pwa)
+    
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      document.location += "?darkmode=true"
+    }
+    
     
 
 
